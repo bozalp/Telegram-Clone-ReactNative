@@ -1,4 +1,4 @@
-# Telegram-Clone-ReactNative
+# TelegramUI-Clone-ReactNative
 
 This project designed with React Native CLI.<br>
 <b>Packages used</b><br>
